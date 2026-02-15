@@ -1,0 +1,176 @@
+.heD{
+    height: 460px;
+    margin: 40px;
+    text-align: center;
+    position: relative;
+}
+.heD h1{
+    font-size: 100px;
+    margin: 60px 0px 0px ;
+    color: rgb(82, 236, 253);
+    font-family: 'Arial Narrow Bold', sans-serif;    
+}
+.ddd{
+   background-color: rgb(82, 236, 253);
+   height: 5px;
+   width: 270px;
+   display: inline-block;
+   overflow: hidden;
+   position: absolute;
+   top: 45%;
+   left: 4%;
+}
+.heD h2{
+    position: absolute;
+    color: rgb(82, 236, 253);
+    right: 38%;
+    word-spacing: 250px;
+    top: 21%;
+    font-size: 28px;
+}
+.heD p{
+    margin-top: 60px;
+    font-size: 28px;
+    letter-spacing: 4px;
+    word-spacing: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heD button{
+    border: 3px solid rgb(82, 236, 253);
+    border-radius: 60px;
+    width: 380px;
+    height: 78px;
+    background-color: rgb(32, 35, 37);
+    color: white;
+    font-size: 30px;
+    margin-top: 60px;
+}
+.about hr{
+    width: 90%;
+}
+.qus1{
+    height: 610px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.qus1 img{
+    height: 220px;
+    width: 220px;
+    margin: 80px 0px 0 180px;
+}
+.flex{
+    position: absolute;
+    top: 5%;
+    right: 10%;
+}
+.flexh1,.more{
+    color: rgb(82, 236, 253);
+}
+.flexh1{
+    font-size: 50px;
+    line-height: 70px;
+    text-decoration: none;
+}
+u{
+    text-decoration: underline;
+    text-decoration-color: white;
+    color: rgb(82, 236, 253);
+}
+.more{
+    margin-top: 50px;
+}
+
+.flex p{
+    font-size: 25px;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+    margin-top: 50px;
+}
+.time button{
+    background-color: grey;
+    color: white;
+    border-radius: 50px;
+    height: 30px;
+    margin-top: 4px;
+}
+.time h2{
+    color: rgb(115, 114, 114);
+    font-size: 14px;
+    margin-top: 13px;
+}
+.time{
+    display: flex;
+    gap: 18px;
+    font-size: 10px;
+    margin-top: 50px;
+}
+.time h3{
+    font-size: 13px;
+ }
+ .time2 button{
+    background-color: grey;
+    color: white;
+    border-radius: 50px;
+    height: 30px;
+    margin-bottom: 30px;
+}
+.ques1 hr{
+    width: 90%;
+}
+.time2 h2{
+    color: rgb(115, 114, 114);
+    font-size: 14px;
+    margin-top: 13px;
+}
+.time2{
+    display: flex;
+    gap: 12px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.time2 h3{
+    font-size: 13px;
+ }
+ .ques2 h1{
+    font-size: 56px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(82, 236, 253);
+ }
+.ques2{
+    margin: 70px 55px;   
+}
+.time2 h3{
+    font-size: 16px;
+    margin-top: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.time2 h2{
+    font-size: 18px;
+    margin-top: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.buttime button{
+   background-color: rgb(99, 135, 139);
+   font-size: 30px;
+   height: 50px;
+   border-radius: 50px;
+   margin: -10px 0 20px 580px;
+   
+}
+.ques2 img{
+    width: 100%;
+    margin-top: 80px;
+}
+.ans1{
+    margin: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    line-height: 50px;
+}
+.ans1 h1{
+    margin: 78px 0;
+    color: rgb(82, 236, 253);
+}
+
+
+
